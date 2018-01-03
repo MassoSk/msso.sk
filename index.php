@@ -10,7 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
+        <img src="Images/underConstructionEdited.jpg" alt="underConstruction"/>
+        <img src="Images/underConstructionEdited.jpg" alt="underConstruction"/>
+            <?php
         
         ?>
     </body>
