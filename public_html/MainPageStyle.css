@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.5.2017, 17:55:28
+    Author     : FIONKA_PC
+*/
+
+body{
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+ul li{
+   display: inline-block;
+   width: 200px;
+   list-style-type: none;
+}
+ul li a{
+    color: black;
+    display: block;
+    text-decoration: none;
+}
+ul li h4{
+    color: green;
+    margin-bottom: 12px;
+}
+#CenterPart{
+    vertical-align: middle;
+}
+#TitlePart{
+    vertical-align: middle;
+}

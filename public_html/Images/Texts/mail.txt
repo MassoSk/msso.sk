@@ -1,0 +1,8 @@
+Cielom firmy ... je poskytovanie softverovych rieseni na mieru pre spolocnosti a jednotlivcov.
+Pracujeme systemom scrum, ktory zabezpecuje vyborny prehlad o vyvoji produktu pre vyvojara aj pre klienta.
+Spolupraca prebieha v obojstranne otvorenej a uvolnenej atmosfere, spejuca k spokojnosti oboch zucastnenych stran.
+
+Za klucovu zlozku vytvarania produktu povazujeme komunikaciu s klientom, ktora prebieha 
+systematicky pocas celej doby vyvoja, v sulade so scrumovym sposobom prace. 
+Je pre nas dolezite najst potrebnu rovnovahu medzi ideou a realizaciou, a pri maximalnom zachovani klientovych predstav odovzdat kvalitny a efektivny produkt.
+

@@ -12,7 +12,9 @@ and open the template in the editor.
     <body>
         <img src="Images/underConstructionEdited.jpg" alt="underConstruction"/>
         <img src="Images/underConstructionEdited.jpg" alt="underConstruction"/>
-            <?php
+        <div>
+        
+        <?php
         
         ?>
     </body>
